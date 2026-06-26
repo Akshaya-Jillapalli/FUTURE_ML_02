@@ -1,2 +1,11 @@
-# FUTURE_ML_02
-A modern, responsive single‑page showcase for an NLP project that classifies support tickets into categories and predicts priority levels. Features SaaS‑style UI, smooth animations, interactive demo, analytics cards, and a clean professional design with blue, white, and purple accents.
+
+  # Machine Learning Project Website
+
+  This is a code bundle for Machine Learning Project Website. The original project is available at https://www.figma.com/design/oh74VNFdbV8jvTNR5mGYPY/Machine-Learning-Project-Website.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
